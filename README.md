@@ -81,28 +81,29 @@ Use the **Select Country** dropdown to toggle between India and US views.
 
 ## Dashboard Screenshots
 
-### Full Dashboard Overview
-KPI summary (520,064 videos analyzed), Gap Matrix, Time Trend, and Channel Concentration.
+### Full Dashboard — India View
+KPI summary (520,064 videos analyzed), Gap Matrix showing Gaming in "INVEST MORE",
+Time Trend, and Channel Concentration.
 
-![Dashboard Overview](dashboard/screenshots/01-overview.webp)
-
-### Gap Matrix — India View
-Gaming clusters in the "Invest More" quadrant (high demand, moderate supply).
-Entertainment sits in "Oversaturated" (high supply, lower demand).
-
-![Gap Matrix India](dashboard/screenshots/02-gap-matrix-india.webp)
+![Full Dashboard](dashboard/screenshots/04-overview.png)
 
 ### Gap Matrix — US View
 The country toggle flips the picture — Gaming moves to "Oversaturated" in the US,
 Comedy and Music emerge as the stronger opportunities.
 
-![Gap Matrix US](dashboard/screenshots/03-gap-matrix-us.webp)
+![Gap Matrix US](dashboard/screenshots/01-gap-matrix-us.webp)
 
 ### Time Trend — Gaming Engagement (India vs. US, 2020–2024)
 India's Gaming engagement (blue) consistently sits above the US (orange)
 across the full 3.5-year window.
 
-![Time Trend](dashboard/screenshots/04-time-trend.webp)
+![Time Trend](dashboard/screenshots/02-time-trend.webp)
+
+### Channel Concentration — Top 10 Gaming Channels (India)
+Techno Gamerz dominates with ~1,050 trending appearances; the remaining
+9 channels form a fragmented, enterable mid-tier.
+
+![Channel Concentration](dashboard/screenshots/03-channel-concentration.webp)
 
 ---
 
