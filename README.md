@@ -20,7 +20,7 @@ The core question: **Where should a media content team invest, and where are the
 
 | Tool | Purpose |
 |---|---|
-| PostgreSQL 17 | Database setup, data loading, all SQL queries |
+| PostgreSQL 18 | Database setup, data loading, all SQL queries |
 | SQL | Aggregations, CTEs, UNION ALL, joins, window functions |
 | Python (psycopg2, pandas) | Data cleaning and bulk ingestion (NUL-byte handling) |
 | Tableau Public | Interactive dashboard with parameter-driven country toggle |
