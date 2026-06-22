@@ -1,0 +1,16 @@
+# Raw data files (too large for GitHub, download from Kaggle)
+*_youtube_trending_data.csv
+raw_data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
