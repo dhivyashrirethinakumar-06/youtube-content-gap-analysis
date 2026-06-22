@@ -84,25 +84,25 @@ Use the **Select Country** dropdown to toggle between India and US views.
 ### Full Dashboard Overview
 KPI summary (520,064 videos analyzed), Gap Matrix, Time Trend, and Channel Concentration.
 
-![Dashboard Overview](dashboard/screenshots/01-overview.png)
+![Dashboard Overview](dashboard/screenshots/01-overview.webp)
 
 ### Gap Matrix — India View
 Gaming clusters in the "Invest More" quadrant (high demand, moderate supply).
 Entertainment sits in "Oversaturated" (high supply, lower demand).
 
-![Gap Matrix India](dashboard/screenshots/02-gap-matrix-india.png)
+![Gap Matrix India](dashboard/screenshots/02-gap-matrix-india.webp)
 
 ### Gap Matrix — US View
 The country toggle flips the picture — Gaming moves to "Oversaturated" in the US,
 Comedy and Music emerge as the stronger opportunities.
 
-![Gap Matrix US](dashboard/screenshots/03-gap-matrix-us.png)
+![Gap Matrix US](dashboard/screenshots/03-gap-matrix-us.webp)
 
 ### Time Trend — Gaming Engagement (India vs. US, 2020–2024)
 India's Gaming engagement (blue) consistently sits above the US (orange)
 across the full 3.5-year window.
 
-![Time Trend](dashboard/screenshots/04-time-trend.png)
+![Time Trend](dashboard/screenshots/04-time-trend.webp)
 
 ---
 
